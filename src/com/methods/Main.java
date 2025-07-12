@@ -5,19 +5,19 @@ package com.methods;
 // Main class
 public class Main {
 
-    // Method get to find difference of two integers
+    // Method substruction() to find difference of two integers
     public int substruction(int number, int number1){
         int result = number - number1;
         return result;
     }
 
-    // Method get to  find difference of three integers
+    // Method substruction() to  find difference of three integers
     public int substruction(int number, int number1, int number2){
         int result = number - number1 - number2;
         return result;
     }
 
-    // Method get to find difference of two doubles
+    // Method substruction() to find difference of two doubles
     public double substruction(double number, double number1){
         double result = number - number1;
         return result;
